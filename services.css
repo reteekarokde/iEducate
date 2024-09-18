@@ -66,7 +66,7 @@
     position: sticky;
     top: 0;
     cursor: pointer;
-    background-image: url('img/buildings-g94e8e047b_1920sp.jpg');
+    background-image: url('buildings-g94e8e047b_1920sp.jpg');
 }
 
 .btn {
@@ -148,49 +148,49 @@
     background:linear-gradient(45deg,
                                 rgba(255,28,8,0.8) 0%,
                                 rgba(255,0,82,0.8) 100%),
-                                url('img/building-ge9cf03097_1280.jpg');
+                                url('building-ge9cf03097_1280.jpg');
     background-size: cover;                            
 }
 .card:nth-child(1):hover {
     background: linear-gradient(45deg,
             rgba(255, 28, 8, 0.8) 0%,
             rgba(255, 0, 82, 0.8) 100%),
-        url('img/building-ge9cf03097_1280.jpg');
+        url('building-ge9cf03097_1280.jpg');
     background-size: cover;
 }
 .card:nth-child(2):hover {
     background: linear-gradient(45deg,
             rgba(255, 28, 8, 0.8) 0%,
             rgba(255, 0, 82, 0.8) 100%),
-        url('img/building-ge9cf03097_1280.jpg');
+        url('building-ge9cf03097_1280.jpg');
     background-size: cover;
 }
 .card:nth-child(3):hover {
     background: linear-gradient(45deg,
             rgba(255, 28, 8, 0.8) 0%,
             rgba(255, 0, 82, 0.8) 100%),
-        url('img/building-ge9cf03097_1280.jpg');
+        url('building-ge9cf03097_1280.jpg');
     background-size: cover;
 }
 .card:nth-child(4):hover {
     background: linear-gradient(45deg,
             rgba(255, 28, 8, 0.8) 0%,
             rgba(255, 0, 82, 0.8) 100%),
-        url('img/building-ge9cf03097_1280.jpg');
+        url('building-ge9cf03097_1280.jpg');
     background-size: cover;
 }
 .card:nth-child(5):hover {
     background: linear-gradient(45deg,
             rgba(255, 28, 8, 0.8) 0%,
             rgba(255, 0, 82, 0.8) 100%),
-        url('img/building-ge9cf03097_1280.jpg');
+        url('building-ge9cf03097_1280.jpg');
     background-size: cover;
 }
 .card:nth-child(6):hover {
     background: linear-gradient(45deg,
             rgba(19, 165, 176, 0.8) 0%,
             rgba(20, 159, 190, 0.8) 100%),
-        url('img/building-ge9cf03097_1280.jpg');
+        url('building-ge9cf03097_1280.jpg');
     background-size: cover;
 }
 .textfooter {
