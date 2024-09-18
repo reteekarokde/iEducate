@@ -62,7 +62,7 @@
     border-radius: 9px;
 }
 .background{
-    background: rgba(0,0,0,0.7) url('../img/buildings-g94e8e047b_1920sp.jpg');
+    background: rgba(0,0,0,0.7) url('buildings-g94e8e047b_1920sp.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
